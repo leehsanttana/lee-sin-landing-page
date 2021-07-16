@@ -10,6 +10,8 @@ const descriptionList = document.querySelectorAll('.description-list li');
 const videoList = document.querySelectorAll('.video-description li');
 const videos = document.querySelectorAll('video');
 
+const cta = document.querySelector('.cta');
+
 function showMenu() {
   function activeShowMenu() {
     nav.classList.toggle('active-menu');
@@ -43,6 +45,13 @@ function navigateSection() {
     li.addEventListener('click', () => {
       activeSection(i);
     });
+  });
+  cta.addEventListener('click', () => {
+    mainSection.forEach((item) => {
+      item.classList.remove('active');
+    });
+
+    mainSection[1].classList.add('active');
   });
 }
 

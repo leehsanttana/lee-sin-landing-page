@@ -570,11 +570,15 @@ p {
 
   p {
     line-height: 1.8rem;
+    max-width: 330px;
   }
 
   aside {
-    left: 10px;
-    font-size: 0.6rem;
+    left: 20px;
+  }
+
+  aside p {
+    font-size: 0.8rem;
   }
 
   aside a {
@@ -682,6 +686,10 @@ p {
     grid-template-columns: 1fr 1fr;
   }
 
+  .class {
+    align-items: flex-start;
+  }
+
   .class img {
     width: 100px;
   }
@@ -724,6 +732,7 @@ p {
     grid-template-columns: minmax(300px, 400px);
     background-position: top;
     background-position-y: top;
+    height: 900px !important;
   }
 
   .icon-list {
@@ -809,7 +818,7 @@ p {
     background: var(--yellow3);
   }
 
-  p {
-    max-width: 350px;
+  .video {
+    left: -800px;
   }
 }
