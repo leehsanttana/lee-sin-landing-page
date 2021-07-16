@@ -80,7 +80,7 @@ Esse projeto foi satisfatório e triste ao mesmo tempo. Apliquei algumas mudanç
 </p>
 
 <p> Brincadeiras a parte, quero dedicar esse projeto ao Rodrigo Galvão que incentivou eu criar o projeto para mais um campeão e o escolhido por ele foi o Lee Sin.
-<p> Vocês podem estar se conectando a ele no Linkedin pelo <a href="https://www.linkedin.com/feed/update/urn:li:activity:6818930046653227008/">link</a>
+<p> Vocês podem estar se conectando a ele no Linkedin pelo <a href="https://www.linkedin.com/in/rodrigo-galv%C3%A3o-14873b214/">link</a>
 
 <p> Novamente aplicando técnicas novas e efeitos que antes eram monstruosos para minha cabeça. Mas com muito esforço, consegui alcançar o resultado desejado!</p>
 
