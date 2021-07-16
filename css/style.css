@@ -790,7 +790,7 @@ p {
   }
 
   .sections.active {
-    height: 100vh;
+    height: auto;
   }
 }
 
@@ -810,6 +810,6 @@ p {
   }
 
   p {
-    max-width: 250px;
+    max-width: 350px;
   }
 }
