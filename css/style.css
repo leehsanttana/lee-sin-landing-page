@@ -795,7 +795,21 @@ p {
 }
 
 @media (max-width: 375px) {
+  nav {
+    right: -180px;
+    top: 0;
+    height: 30px;
+  }
+
+  nav.active-menu {
+    right: 0;
+  }
+
+  nav.active-menu .btn {
+    background: var(--yellow3);
+  }
+
   p {
-    max-width: 340px;
+    max-width: 250px;
   }
 }
