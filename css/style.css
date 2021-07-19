@@ -413,9 +413,10 @@ p {
 
 .video-description li.active {
   animation: 1s showIn forwards;
-  margin-top: 5rem;
+  margin-top: 3rem;
   display: flex;
   flex-wrap: wrap;
+  flex: 1 1 380px
 }
 
 .video-description video {
