@@ -1,5 +1,5 @@
 <h1> Projeto Lee Sin Landing Page </h1>
-<p><b>Site apresentativo da Campeã Riven do Jogo Online League of Legends 🎮</b></p>
+<p><b>Site apresentativo do campeão Lee Sin do Jogo Online League of Legends 🎮</b></p>
 
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
 <a href="https://leehsanttana.github.io/lee-sin-landing-page/#inicio"> Visite o site! </a>
